@@ -1,1 +1,2 @@
 Hello, good evening! Testing automating Continuous integration of Jenkins with Github. 
+Testing again by adding data from local git by pushing that too github and checking the status of Build on Jenkins. 
